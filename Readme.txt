@@ -1,40 +1,42 @@
 
-#DATE : 21ST May, 2015 , 9:00 PM
+DATE : 21ST May, 2015 , 9:00 PM
 
-	##Major OS
+Major OS
 ---------------------------
-V1.0 (NO WORDS ABOUT FUTURE UPDATES AT THIS MOMENT)
+V1.0
 DEVELOPED BY AMIT SINGH RAWAT
 
-------------------------------------------	STABLE FEATURE	------------------------------------------------------
+STABLE FEATURE
+==================
+HELP
+DIR
+CLEAR
+EDIT---->TEXT EDITOR---> SAVES FILE ON DISK---> UPDATE DISK MAP---> FEED FILE INFO IN DIRECTORY TABLE
+VERSION
+AUTHOR
+OPEN
+SHUTDOWN
+COPY
+DELETE
 
-*HELP
-*DIR
-*CLEAR
-*EDIT---->TEXT EDITOR---> SAVES FILE ON DISK---> UPDATE DISK MAP---> FEED FILE INFO IN DIRECTORY TABLE
-*VERSION
-*AUTHOR
-*OPEN
-*SHUTDOWN
-*COPY
-*DELETE
+DISK STRUCTURE
+==================
+SECTOR 1 		-->	BOOTLOADER
+SECTOR 2		-->	DISK MAP
+SECTOR 3		-->	DIRECTORY
+SECTOR 4		-->	KERNEL
+SECTOR 5 - 18		-->	SHELL
+SECTOR 17 - 255*	-->	USER FILES
 
--------------------------------------------------------DISK STRUCTURE------------------------------------------------------------------------------------------
-________________________________________________________________________________________________________________________________________________________________
-|  	     |		|		|			|						|						|
-| BOOTLOADER | DISK MAP	| DIRECTORY	|  KERNEL		|                      SHELL                   	|			USER FILES		|
-|____________|__________|_______________|_______________________|_______________________________________________|_______________________________________________|
-   SECTOR 1    SECTOR 2     SECTOR 3         SECTOR 4       	         SECTOR 5  -----  SECTOR 18                     SECTOR 17    -----    #MAX SECTOR(255)
-
-# MAX SECTOR ----- DEPENDS ON THE DISK YOU WRITE THIS OS CODE
+*MAX SECTOR ----- DEPENDS ON THE DISK YOU WRITE THIS OS CODE
 
 ------------SIZE-------------------
-   BOOTLOADER  = 512 BYTES
-   DISK MAP	   = 512 BYTES
-   DIRECTORY   = 512 BYTES
-   KERNEL	   = 512 BYTES
-   SHELL	   = 7KB (14 SECTORS)
-   USER FILES  = MAX 1KB
+BOOTLOADER  	=	512 BYTES
+DISK MAP	= 	512 BYTES
+DIRECTORY   	= 	512 BYTES
+KERNEL	   	= 	512 BYTES
+SHELL	   	= 	7KB (14 SECTORS)
+USER FILES  	= 	MAX 1KB
 
 
 
