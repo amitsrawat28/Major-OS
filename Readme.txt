@@ -51,7 +51,7 @@ For Linux\UNIX
 
 3) After Installing the QEMU, directyly run the Major OS with following Command
 
-	qemu-system-i386 floppy
+	qemu-system-i386 MajorOS.bin
 
 4) Enjoy Major OS !!!
 
