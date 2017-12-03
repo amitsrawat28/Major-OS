@@ -38,6 +38,33 @@ KERNEL	   	= 	512 BYTES
 SHELL	   	= 	7KB (14 SECTORS)
 USER FILES  	= 	MAX 1KB
 
+HOW TO RUN
+================
+For Linux\UNIX 
+--------------------------------
 
+1) Open Terminal
+ 
+2) Type the following command to install QEMU 
+
+	sudo apt-get install qemu
+
+3) After Installing the QEMU, directyly run the Major OS with following Command
+
+	qemu-system-i386 floppy
+
+4) Enjoy Major OS !!!
+
+
+For Windows
+-----------------------------
+
+1) Install Bochs provided within the CD
+
+2) Run bochsrc(Bochs Configuration File)
+
+3) Enjoy Major OS !!!
+
+				**************************************THANK YOU*****************************************
 
 
