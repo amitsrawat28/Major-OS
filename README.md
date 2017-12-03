@@ -1,12 +1,12 @@
-!Best viewed as RAW
+
 #DATE : 21ST May, 2015 , 9:00 PM
 
 	##Major OS
 ---------------------------
-	V1.0 (NO WORDS ABOUT FUTURE UPDATES AT THIS MOMENT)
-	DEVELOPED BY AMIT SINGH RAWAT
+V1.0 (NO WORDS ABOUT FUTURE UPDATES AT THIS MOMENT)
+DEVELOPED BY AMIT SINGH RAWAT
 
-		------------------------------------------	STABLE FEATURE	------------------------------------------------------
+------------------------------------------	STABLE FEATURE	------------------------------------------------------
 
 *HELP
 *DIR
