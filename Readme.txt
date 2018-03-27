@@ -1,10 +1,9 @@
 
 DATE : 21ST May, 2015 , 9:00 PM
 
-Major OS
----------------------------
-V1.0
-DEVELOPED BY AMIT SINGH RAWAT
+Major OS -- V1.0
+-------------------
+Development of an operating system for x86 processor family. The whole thing is written in x86 Assembly language. This is an academic project and aims at replicating a working OS in a minimalistic way possible.
 
 STABLE FEATURE
 ==================
@@ -65,6 +64,6 @@ For Windows
 
 3) Enjoy Major OS !!!
 
-				**************************************THANK YOU*****************************************
+**************************************THANK YOU*****************************************
 
 
