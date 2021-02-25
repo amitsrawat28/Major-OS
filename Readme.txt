@@ -58,7 +58,7 @@ For Linux\UNIX
 For Windows
 -----------------------------
 
-1) Install Bochs provided within the CD
+1) Install Bochs
 
 2) Run bochsrc(Bochs Configuration File)
 
